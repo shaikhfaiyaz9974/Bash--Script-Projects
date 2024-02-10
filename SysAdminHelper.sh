@@ -18,7 +18,7 @@ echo " 1 - for Create New User and Set password"
 echo
 echo " 2 - for Delete The User"
 echo
-echo " 3 - Add User into a Group"
+echo " 3 - Add a user to a group"
 echo
 echo " 4 - Create Backup for Specific Directory"
 echo 
