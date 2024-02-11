@@ -6,10 +6,7 @@
 This Bash script serves as a versatile tool for user management and backup tasks, 
 enhancing system administration efficiency. With a user-friendly menu interface, 
 it offers options to create new users with customized passwords, delete existing users, 
-add users to specific groups, and create backups of designated directories
-
-The script leverages Linux system commands such as `useradd`, `userdel`, and `tar` to 
-execute these tasks seamlessly.
+add users to specific groups, and create backups of designated directories.
 Comment
 
 echo "Choose Below Option to Perform the Task"
