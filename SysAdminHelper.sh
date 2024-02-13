@@ -2,6 +2,9 @@
 
 ############ Project -01 ##############
 
+#Author: Faiyaz shaikh
+#Date: 05/02/2024
+
 << Comment
 This Bash script serves as a versatile tool for user management and backup tasks, 
 enhancing system administration efficiency. With a user-friendly menu interface, 
